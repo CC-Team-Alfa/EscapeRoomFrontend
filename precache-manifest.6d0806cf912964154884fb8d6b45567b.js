@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1663317304e351cb44e75a05837225b7",
+    "revision": "0fb5c077d46e77f16a5c1526cb50391f",
     "url": "/EscapeRoomFrontend/index.html"
   },
   {
-    "revision": "80406ab9ebbdbaf1a4cb",
+    "revision": "8bed99ce8745dfab79dc",
     "url": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css"
   },
   {
-    "revision": "09bb575c8a777762291a",
-    "url": "/EscapeRoomFrontend/static/css/main.c66849c9.chunk.css"
+    "revision": "5f6ac0b49f3f68d3cfaa",
+    "url": "/EscapeRoomFrontend/static/css/main.a6356987.chunk.css"
   },
   {
-    "revision": "80406ab9ebbdbaf1a4cb",
-    "url": "/EscapeRoomFrontend/static/js/2.23789ecb.chunk.js"
+    "revision": "8bed99ce8745dfab79dc",
+    "url": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js"
   },
   {
-    "revision": "96048aae071b08e3a0f8ca33750b98c0",
-    "url": "/EscapeRoomFrontend/static/js/2.23789ecb.chunk.js.LICENSE"
+    "revision": "524270a296d20dd8b9a68c3c7b0253b3",
+    "url": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js.LICENSE"
   },
   {
-    "revision": "09bb575c8a777762291a",
-    "url": "/EscapeRoomFrontend/static/js/main.c6415b32.chunk.js"
+    "revision": "5f6ac0b49f3f68d3cfaa",
+    "url": "/EscapeRoomFrontend/static/js/main.caca27b3.chunk.js"
   },
   {
     "revision": "39ad9c0c95216ac9b2c7",

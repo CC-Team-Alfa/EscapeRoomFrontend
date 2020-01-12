@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/EscapeRoomFrontend/static/css/main.c66849c9.chunk.css",
-    "main.js": "/EscapeRoomFrontend/static/js/main.c6415b32.chunk.js",
-    "main.js.map": "/EscapeRoomFrontend/static/js/main.c6415b32.chunk.js.map",
+    "main.css": "/EscapeRoomFrontend/static/css/main.a6356987.chunk.css",
+    "main.js": "/EscapeRoomFrontend/static/js/main.caca27b3.chunk.js",
+    "main.js.map": "/EscapeRoomFrontend/static/js/main.caca27b3.chunk.js.map",
     "runtime-main.js": "/EscapeRoomFrontend/static/js/runtime-main.ab406525.js",
     "runtime-main.js.map": "/EscapeRoomFrontend/static/js/runtime-main.ab406525.js.map",
     "static/css/2.a1f70397.chunk.css": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css",
-    "static/js/2.23789ecb.chunk.js": "/EscapeRoomFrontend/static/js/2.23789ecb.chunk.js",
-    "static/js/2.23789ecb.chunk.js.map": "/EscapeRoomFrontend/static/js/2.23789ecb.chunk.js.map",
+    "static/js/2.dc3496e3.chunk.js": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js",
+    "static/js/2.dc3496e3.chunk.js.map": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js.map",
     "index.html": "/EscapeRoomFrontend/index.html",
-    "precache-manifest.c71cad650e9d2b80fd4743b672d3faf0.js": "/EscapeRoomFrontend/precache-manifest.c71cad650e9d2b80fd4743b672d3faf0.js",
+    "precache-manifest.6d0806cf912964154884fb8d6b45567b.js": "/EscapeRoomFrontend/precache-manifest.6d0806cf912964154884fb8d6b45567b.js",
     "service-worker.js": "/EscapeRoomFrontend/service-worker.js",
     "static/css/2.a1f70397.chunk.css.map": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css.map",
-    "static/css/main.c66849c9.chunk.css.map": "/EscapeRoomFrontend/static/css/main.c66849c9.chunk.css.map",
-    "static/js/2.23789ecb.chunk.js.LICENSE": "/EscapeRoomFrontend/static/js/2.23789ecb.chunk.js.LICENSE",
+    "static/css/main.a6356987.chunk.css.map": "/EscapeRoomFrontend/static/css/main.a6356987.chunk.css.map",
+    "static/js/2.dc3496e3.chunk.js.LICENSE": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js.LICENSE",
     "static/media/logo.png": "/EscapeRoomFrontend/static/media/logo.d5bd2677.png",
     "static/media/room_1.png": "/EscapeRoomFrontend/static/media/room_1.b263046e.png",
     "static/media/room_2.png": "/EscapeRoomFrontend/static/media/room_2.cc0a5d47.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.ab406525.js",
     "static/css/2.a1f70397.chunk.css",
-    "static/js/2.23789ecb.chunk.js",
-    "static/css/main.c66849c9.chunk.css",
-    "static/js/main.c6415b32.chunk.js"
+    "static/js/2.dc3496e3.chunk.js",
+    "static/css/main.a6356987.chunk.css",
+    "static/js/main.caca27b3.chunk.js"
   ]
 }
