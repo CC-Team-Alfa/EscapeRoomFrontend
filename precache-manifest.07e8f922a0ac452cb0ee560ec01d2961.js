@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fb5c077d46e77f16a5c1526cb50391f",
+    "revision": "82ccaef12ca57b777cea03c9e11956d0",
     "url": "/EscapeRoomFrontend/index.html"
   },
   {
-    "revision": "8bed99ce8745dfab79dc",
+    "revision": "20eec05e4f01f5f61d96",
     "url": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css"
   },
   {
-    "revision": "5f6ac0b49f3f68d3cfaa",
-    "url": "/EscapeRoomFrontend/static/css/main.a6356987.chunk.css"
+    "revision": "cf0e4f6d8aebce6e6ba1",
+    "url": "/EscapeRoomFrontend/static/css/main.f40d42d9.chunk.css"
   },
   {
-    "revision": "8bed99ce8745dfab79dc",
-    "url": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js"
+    "revision": "20eec05e4f01f5f61d96",
+    "url": "/EscapeRoomFrontend/static/js/2.547f765e.chunk.js"
   },
   {
     "revision": "524270a296d20dd8b9a68c3c7b0253b3",
-    "url": "/EscapeRoomFrontend/static/js/2.dc3496e3.chunk.js.LICENSE"
+    "url": "/EscapeRoomFrontend/static/js/2.547f765e.chunk.js.LICENSE"
   },
   {
-    "revision": "5f6ac0b49f3f68d3cfaa",
-    "url": "/EscapeRoomFrontend/static/js/main.caca27b3.chunk.js"
+    "revision": "cf0e4f6d8aebce6e6ba1",
+    "url": "/EscapeRoomFrontend/static/js/main.d5510584.chunk.js"
   },
   {
     "revision": "39ad9c0c95216ac9b2c7",
