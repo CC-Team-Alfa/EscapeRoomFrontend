@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/EscapeRoomFrontend/static/css/main.f40d42d9.chunk.css",
-    "main.js": "/EscapeRoomFrontend/static/js/main.ea9172ea.chunk.js",
-    "main.js.map": "/EscapeRoomFrontend/static/js/main.ea9172ea.chunk.js.map",
+    "main.js": "/EscapeRoomFrontend/static/js/main.745c73bb.chunk.js",
+    "main.js.map": "/EscapeRoomFrontend/static/js/main.745c73bb.chunk.js.map",
     "runtime-main.js": "/EscapeRoomFrontend/static/js/runtime-main.ab406525.js",
     "runtime-main.js.map": "/EscapeRoomFrontend/static/js/runtime-main.ab406525.js.map",
     "static/css/2.a1f70397.chunk.css": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css",
-    "static/js/2.547f765e.chunk.js": "/EscapeRoomFrontend/static/js/2.547f765e.chunk.js",
-    "static/js/2.547f765e.chunk.js.map": "/EscapeRoomFrontend/static/js/2.547f765e.chunk.js.map",
+    "static/js/2.25f631b8.chunk.js": "/EscapeRoomFrontend/static/js/2.25f631b8.chunk.js",
+    "static/js/2.25f631b8.chunk.js.map": "/EscapeRoomFrontend/static/js/2.25f631b8.chunk.js.map",
     "index.html": "/EscapeRoomFrontend/index.html",
-    "precache-manifest.bc9f48f4df199608fd37b5277d2b3a90.js": "/EscapeRoomFrontend/precache-manifest.bc9f48f4df199608fd37b5277d2b3a90.js",
+    "precache-manifest.f263f29d4d066604a7c1a1d8cca97e27.js": "/EscapeRoomFrontend/precache-manifest.f263f29d4d066604a7c1a1d8cca97e27.js",
     "service-worker.js": "/EscapeRoomFrontend/service-worker.js",
     "static/css/2.a1f70397.chunk.css.map": "/EscapeRoomFrontend/static/css/2.a1f70397.chunk.css.map",
     "static/css/main.f40d42d9.chunk.css.map": "/EscapeRoomFrontend/static/css/main.f40d42d9.chunk.css.map",
-    "static/js/2.547f765e.chunk.js.LICENSE": "/EscapeRoomFrontend/static/js/2.547f765e.chunk.js.LICENSE",
+    "static/js/2.25f631b8.chunk.js.LICENSE": "/EscapeRoomFrontend/static/js/2.25f631b8.chunk.js.LICENSE",
     "static/media/logo.png": "/EscapeRoomFrontend/static/media/logo.d5bd2677.png",
     "static/media/room_1.png": "/EscapeRoomFrontend/static/media/room_1.b263046e.png",
     "static/media/room_2.png": "/EscapeRoomFrontend/static/media/room_2.cc0a5d47.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.ab406525.js",
     "static/css/2.a1f70397.chunk.css",
-    "static/js/2.547f765e.chunk.js",
+    "static/js/2.25f631b8.chunk.js",
     "static/css/main.f40d42d9.chunk.css",
-    "static/js/main.ea9172ea.chunk.js"
+    "static/js/main.745c73bb.chunk.js"
   ]
 }
